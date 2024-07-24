@@ -1,4 +1,6 @@
-#### Instructions for paired notebook
+#### Instructions for paired notebook - Work in progress
+
+Meant to be ATLAS OpenData companion to calver coffea agc demo.
 
 If you only care about running the `HZZ_analysis_pipeline.ipynb` notebook, you can completely ignore the `HZZ_analysis_pipeline.py` file.
 
