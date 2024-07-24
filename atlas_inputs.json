@@ -1,0 +1,30 @@
+{
+    "ttbar": {
+        "files": {
+            "root://xrootd-local.unl.edu:1094//store/user/AGC/ATLAS_HZZ/data_A.4lep.root": "mini",
+            "root://xrootd-local.unl.edu:1094//store/user/AGC/ATLAS_HZZ/data_B.4lep.root": "mini",
+            "root://xrootd-local.unl.edu:1094//store/user/AGC/ATLAS_HZZ/data_C.4lep.root": "mini",
+            "root://xrootd-local.unl.edu:1094//store/user/AGC/ATLAS_HZZ/data_D.4lep.root": "mini"
+        }
+    },
+    "Background $Z,t\bar{t}$": {
+        "files": {
+            "root://xrootd-local.unl.edu:1094//store/user/AGC/ATLAS_HZZ/mc_361106.Zee.4lep.root": "mini",
+            "root://xrootd-local.unl.edu:1094//store/user/AGC/ATLAS_HZZ/mc_361107.Zmumu.4lep.root": "mini",
+            "root://xrootd-local.unl.edu:1094//store/user/AGC/ATLAS_HZZ/mc_410000.ttbar_lep.4lep.root": "mini"
+        }
+    },
+    "Background $ZZ^{\\star}$": {
+        "files": {
+            "root://xrootd-local.unl.edu:1094//store/user/AGC/ATLAS_HZZ/mc_363490.llll.4lep.root": "mini"
+        }
+    },
+    "Signal ($m_H$ = 125 GeV)": {
+        "files": {
+            "root://xrootd-local.unl.edu:1094//store/user/AGC/ATLAS_HZZ/mc_345060.ggH125_ZZ4lep.4lep.root": "mini",
+            "root://xrootd-local.unl.edu:1094//store/user/AGC/ATLAS_HZZ/mc_344235.VBFH125_ZZ4lep.4lep.root": "mini",
+            "root://xrootd-local.unl.edu:1094//store/user/AGC/ATLAS_HZZ/mc_341964.WH125_ZZ4lep.4lep.root": "mini",
+            "root://xrootd-local.unl.edu:1094//store/user/AGC/ATLAS_HZZ/mc_341947.ZH125_ZZ4lep.4lep.root": "mini"
+        }
+    }
+}
